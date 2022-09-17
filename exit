@@ -1,0 +1,93 @@
+[33mcommit f6ee740e94621b71e72837361cb99a207cef4437[m[33m ([m[1;36mHEAD -> [m[1;32molubunmi_amoke[m[33m, [m[1;31morigin/olubunmi_amoke[m[33m)[m
+Merge: f6bc06f 08d5c17
+Author: DenisL <denislazuk@gmail.com>
+Date:   Sat Sep 17 15:31:49 2022 +0300
+
+    Done
+
+[33mcommit f6bc06fa735bd3f7c8970b70400a2cad4d535e66[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Sat Sep 17 14:55:32 2022 +0300
+
+    The work on dataset is completed
+
+[33mcommit f4c17371239fc30a29da861152af81b9bbc7b05c[m
+Merge: a06ff01 65c2d07
+Author: DenisL <denislazuk@gmail.com>
+Date:   Wed Sep 7 13:58:26 2022 +0300
+
+    Resolved merge conflict
+
+[33mcommit 08d5c17f0fd5a4078aed448d51b3134e35613bc6[m
+Author: Olubunmi Olarinde <amoke@Olubunmis-MBP.attlocal.net>
+Date:   Mon Sep 5 14:59:11 2022 -0500
+
+    Week Two task completed
+
+[33mcommit 78a6b86606cdd34e6208d6b03f9db6c3228d22dc[m
+Author: Olubunmi Olarinde <amoke@Olubunmis-MBP.attlocal.net>
+Date:   Mon Sep 5 14:55:06 2022 -0500
+
+    Week 2 task completed
+
+[33mcommit b83eac5f15460b1079311cd9cf5033f9ddb2ab1a[m
+Author: Olubunmi Olarinde <amoke@Olubunmis-MBP.attlocal.net>
+Date:   Mon Sep 5 14:17:53 2022 -0500
+
+    week two task completed
+
+[33mcommit 65c2d07d2cd65b4bc897be602a35c27d290afd24[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Sat Aug 27 13:05:31 2022 +0300
+
+    Another modifications
+    
+    Added fancy print messages and rounded the values to one digit
+
+[33mcommit a06ff01a1b977e25de83cbd7fcb02e0f69ec9c01[m
+Author: Olubunmi Olarinde <amoke@Olubunmis-MBP.attlocal.net>
+Date:   Fri Aug 26 14:12:23 2022 -0500
+
+    week one task completed
+
+[33mcommit b454c17e6892469fefd8ee25cd6c602e39003282[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Fri Aug 26 14:59:19 2022 +0300
+
+    Intermittent result by Denis
+
+[33mcommit fac7c52fbddcb94ff0687eed36180e94ce2e7477[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Fri Aug 26 13:47:11 2022 +0300
+
+    Create Denis_main-checkpoint.ipynb
+
+[33mcommit 12355a377491ecf30fe12a4883b35bc305ee1e9d[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Fri Aug 26 13:46:55 2022 +0300
+
+    Create Denis_main.ipynb
+    
+    New commit
+
+[33mcommit 8f0aef00569cbaa31fbcb91c4b585fd5880e32bb[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Thu Aug 25 13:06:54 2022 +0300
+
+    Create insurance.csv
+    
+    Dataset insurance.csv added.
+
+[33mcommit 94a509cd1204ac762be4c3368f05eacb30efb01d[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Thu Aug 25 13:05:17 2022 +0300
+
+    Update README.md
+    
+    Update README.md
+
+[33mcommit c2099ddf6e77e50f11905f8c10ffc06ba23587b9[m
+Author: DenisL <denislazuk@gmail.com>
+Date:   Thu Aug 25 12:52:54 2022 +0300
+
+    Initial commit
