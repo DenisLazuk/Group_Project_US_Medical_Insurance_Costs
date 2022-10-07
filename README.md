@@ -28,5 +28,5 @@
 # Observation 3. Expectedly the older the person the higher the insurance charge.
 # Observation 4. The points are scattered along the graph and there is no distinct trend as regards BMI.
 # Observation 5. The region doesn't affect insurance charge at all.
-# Observation 5. The sex doesn't affect insurance charge at all.
+# Observation 6. The sex doesn't affect insurance charge at all.
 
