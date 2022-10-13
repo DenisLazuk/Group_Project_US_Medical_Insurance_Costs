@@ -3,7 +3,7 @@
 
 **Investigation of medical insurance costs dataset.**
 
-**Team members: Amoke and Denis**
+**Collaborators: Amoke and Denis**
 
 ### Project Objectives:
 - [x] Collaborate and get the experience of team work
@@ -14,10 +14,31 @@
 - [x] *Optional 1: Document and organize your findings*
 - [x] *Optional 2: Make predictions about a dataset’s features based on your findings*
 
+### Technologies used:
+```
+Python
+Jupyter notebook
+```
+
 ### Dataset used:
 ```
 insurance.csv
 ```
+
+### Libraries used:
+```
+csv
+math
+pandas
+statistics
+seaborn
+matplotlib
+```
+
+## How to use ##
+1. Import Libraries
+2. Analyze the dataset
+3. Visualize the dataset
 
 ## Observations. Part I ##
 1. Average and median insurance charge differ a lot.
