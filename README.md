@@ -1,10 +1,10 @@
 # **Group_Project_US_Medical_Insurance_Costs**
 ## First portfolio project
-### Team members: Amoke and Denis
 
 **Investigation of medical insurance costs dataset.**
+**Team members: Amoke and Denis**
 
-*Project Objectives:*
+***Project Objectives:***
 - [x] Collaborate and get the experience of team work
 - [x] Work locally on your own computer
 - [x] Import a dataset into your program
